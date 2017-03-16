@@ -1,0 +1,12 @@
+c:\users\rohith.vallabhaneni\documents\visual studio 2015\Projects\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe.config
+c:\users\rohith.vallabhaneni\documents\visual studio 2015\Projects\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe
+c:\users\rohith.vallabhaneni\documents\visual studio 2015\Projects\TestJenkins\TestJenkins\bin\Debug\TestJenkins.pdb
+c:\users\rohith.vallabhaneni\documents\visual studio 2015\Projects\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csprojResolveAssemblyReference.cache
+c:\users\rohith.vallabhaneni\documents\visual studio 2015\Projects\TestJenkins\TestJenkins\obj\Debug\TestJenkins.exe
+c:\users\rohith.vallabhaneni\documents\visual studio 2015\Projects\TestJenkins\TestJenkins\obj\Debug\TestJenkins.pdb
+C:\Users\rohith.vallabhaneni\Desktop\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe.config
+C:\Users\rohith.vallabhaneni\Desktop\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe
+C:\Users\rohith.vallabhaneni\Desktop\TestJenkins\TestJenkins\bin\Debug\TestJenkins.pdb
+C:\Users\rohith.vallabhaneni\Desktop\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csprojResolveAssemblyReference.cache
+C:\Users\rohith.vallabhaneni\Desktop\TestJenkins\TestJenkins\obj\Debug\TestJenkins.exe
+C:\Users\rohith.vallabhaneni\Desktop\TestJenkins\TestJenkins\obj\Debug\TestJenkins.pdb
