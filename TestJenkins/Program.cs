@@ -12,10 +12,10 @@ namespace TestJenkins
         {
             Console.WriteLine("Hello Jenkins!!");
             Console.WriteLine("Testing Jenkins");
-<<<<<<< HEAD
-=======
+
+
             Console.WriteLine("Testing Git Push");
->>>>>>> develop
+
         }
     }
 }
