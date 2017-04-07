@@ -1,5 +1,5 @@
 
-
+using System;
 namespace TestJenkins
 {
     class Program
@@ -14,7 +14,7 @@ namespace TestJenkins
             Console.WriteLine("Testing Git Push");
 
 
-            Console.WriteLine("Testing Git Push");
+            Console.WriteLine("Testing Git Push")
          
 
         }
