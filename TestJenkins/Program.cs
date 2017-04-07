@@ -14,7 +14,7 @@ namespace TestJenkins
             Console.WriteLine("Testing Git Push");
 
 
-            Console.WriteLine("Testing Git Push")
+            Console.WriteLine("Testing Git Push");
          
 
         }
